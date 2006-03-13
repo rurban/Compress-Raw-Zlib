@@ -106,6 +106,8 @@ C<Archive::Zip> module. You can find it on CPAN at
 
 
 
+
+
 =head2 Zlib Library Version Support
 
 By default C<Compress::Raw::Zlib> will build with a private copy of version
@@ -143,9 +145,6 @@ L<Compress::Zlib::FAQ|Compress::Zlib::FAQ>
 L<File::GlobMapper|File::GlobMapper>, L<Archive::Zip|Archive::Zip>,
 L<Archive::Tar|Archive::Tar>,
 L<IO::Zlib|IO::Zlib>
-
-
-
 
 
 
